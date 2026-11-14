@@ -16,12 +16,12 @@ This case study covers 2019–2021 and uses a synthetic dataset based on real tr
 - Following a 2.5% decline in 2020, revenue recovered, showing an increase of 16.0%—or $740,000. Compared to 2019, revenue grew by 13.1%, or $624,000.
 - Average quarterly revenue in 2021 was $1.35 million, exceeding the average for the entire period ($1.23 million). For comparison, this figure was $1.19 million in 2019 and $1.16 million in 2020.
 
-### Quarterly Patterns and Key Changes
+### 2. Quarterly Patterns and Key Changes
 
 - Across all three years, Q1 accounted for the smallest share of annual revenue, while Q4 accounted for the largest.
 - In 2021, the concentration of revenue toward the end of the year intensified. Q4 accounted for $2.16 million—or 40.1% of annual revenue—compared to 29.9% in 2019 and 30% in 2020. Q1 2021 generated $647,000 (12%), marking the quarter with the lowest revenue for the entire period.
 
-### Key Takeaways and Recommendations
+### 3. Key Takeaways and Recommendations
 
 - The recovery in revenue was accompanied by an increased concentration in Q4. When planning for the next period, it is necessary to assess the likelihood that the elevated sales levels seen at the end of 2021 will recur.
 - Conduct a more detailed analysis of the customers and products that drove the results for Q1 and Q4. Use these findings to refine the quarterly sales and shipment plan. 
