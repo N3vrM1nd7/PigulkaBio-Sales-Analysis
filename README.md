@@ -67,4 +67,41 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 #### Product Mix and Margin
 
+- Changes in the sales mix reduced the overall margin by 8.8 percentage points (p.p.), while margin improvements within individual categories offset 4.1 p.p. of this decline. Consequently, the product margin decreased from 46.1% to 41.4%.
+- The margin for the Lyophilized category rose from 14.5% to 27%, yet it remained significantly lower than the margin for Diagnostics & Reagents, which stood at 61.9% in 2021. The increased share of Lyophilized products supported revenue while simultaneously altering the overall profitability of the product mix.
+
+### Customers and Concentration
+
+#### Top customers: Revenue vs. Gross Profit
+ 
+- The largest customers were Customer 42 ($1.97 million), Customer 02 ($1.18 million), and Customer 35 ($472,000) in terms of product revenue.
+- Customer 02 was the leader in terms of gross profit, generating $581,000 with a margin of 49.5%. Customer 42, despite having higher revenue, contributed $507,000 in gross profit with a margin of 25.7%. The leader in terms of revenue was not the same as the leader in terms of gross profit.
+
+#### Biggest Changes
+
+- The primary growth was driven by Customer 42 and Customer 02. For Customer 42, product revenue increased by $1.03 million, and gross profit by $323,000. For Customer 02, the increases were $402,000 and $250,000, respectively.
+- The most significant declines were seen with Customer 35 and Customer 14. Revenue for Customer 35 fell by $785,000, with a $488,000 drop in gross profit. For Customer 14, the decreases were $369,000 and $208,000, respectively.
+- There were no product sales for Customer 25 or Customer 01 in the 2019–2020 data. In 2021, however, they generated $375,000 and $111,000 in product revenue, respectively, contributing to the annual result.
+
+#### Top-3 Revenue Share
+
+- Dependence on the largest customers has intensified. The share of the top 3 customers grew from 57.4% in 2019 to 64.1% in 2020 and 67.3% in 2021. While the composition of this group remained the same—Customer 42, Customer 02, and Customer 35—their relative positions shifted.
+
+### Discounts, Returns, and Pricing
+
+#### Discount and Return Trends
+
+- Financial discounts have shown a consistent decline: from $60,500 in 2019 to $24,600 in 2020, and further to $21,600 in 2021. Their rate decreased from 1.26% to 0.53% and 0.4%, respectively.
+- Returns peaked in 2020, reaching $30.8 thousand, or 0.66% of sales revenue. In 2021, this figure fell to $686, or 0.01%.
+
+#### Pricing Exceptions
+
+- The number of sales below cost dropped from 93 line items in 2020 to 19 in 2021. The total gross loss decreased from $15.1 thousand to $9.4 thousand.
+- In 2021, a total of 25 pricing exceptions were identified: 19 sales below cost and 6 in a separate category of deep discounts. No free product shipments were recorded in 2021.
+
+#### Concentration and Financial Impact
+
+- In 2020, a significant portion of the gross loss from exceptions was attributed to the product Lyophilized_01 sold to Customer 42 — comprising 30 line items and a loss of $10.7 thousand. This points to a specific area where sales terms and conditions should be reviewed.
+- While the number of sales below cost and the associated gross loss have declined, the overall product margin has continued to fall. Margin decomposition reveals that the primary negative impact stems from the product mix.
+
 
