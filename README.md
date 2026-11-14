@@ -104,4 +104,51 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 - In 2020, a significant portion of the gross loss from exceptions was attributed to the product Lyophilized_01 sold to Customer 42 — comprising 30 line items and a loss of $10.7 thousand. This points to a specific area where sales terms and conditions should be reviewed.
 - While the number of sales below cost and the associated gross loss have declined, the overall product margin has continued to fall. Margin decomposition reveals that the primary negative impact stems from the product mix.
 
+### Domestic and Export
+
+#### Market Performance, 2019–2021
+
+- The domestic market saw revenue grow from $3.49 million in 2020 to $4.7 million in 2021. Gross profit increased from $1.54 million to $1.89 million; however, the margin declined from 44.1% to 40.2%.
+- Export revenue fell from $1.14 million to $669,000, and gross profit dropped from $594,000 to $335,000. Exports maintained a higher margin—50%—though this was a decrease from 52.1% in 2020.
+- The share of exports decreased to 12,5% of total product revenue, compared to 24.6% in 2020 and 18.3% in 2019. Domestic sales accounted for 87.5% of product revenue.
+
+#### Export Regional Changes
+
+- The primary decline in exports occurred in Export Market C and Export Market E, with revenue drops of $369,000 and $107,000, respectively. Total export revenue decreased by $471,000.
+- Growth in Export Market A ($48,000) and Export Market D ($3,000) was insufficient to offset the declines in other regions. There were no sales in Export Market B during 2021.
+
+#### Product Mix by Market
+
+- In the domestic market, Diagnostics & Reagents accounted for 34.4% of revenue, followed by Lyophilized products (28.2%) and Injectables (21.6%). Exports were dominated by Immunobiologics (52.8%) and Diagnostics & Reagents (46.1%).
+- Differences in market profitability should be evaluated in the context of their respective product mixes. All Lyophilized revenue was generated in the domestic market, whereas exports were concentrated primarily in Immunobiologics and Diagnostics & Reagents. 
+
+## Overall Findings
+
+- The company has recovered its revenue, but not its gross profit, compared to 2019. Net revenue in 2021 reached a period high, while product gross profit remained 8.9% below 2019 levels. Margins have declined consistently over the three-year period.
+- The most significant shift in profitability is linked to the product mix. Growth in the Lyophilized segment was accompanied by a reduction in the share of high-margin diagnostics. Margin improvements within individual categories only partially offset this negative impact.
+- Growth in the Lyophilized category is concentrated within a single major buyer. In 2021, Customer 42 accounted for $1.26 million, or 94.6%, of the category's revenue. This links the shift in the product mix to a heavy reliance on a key client; the category’s future performance is highly dependent on this client’s purchasing activity.
+- Business concentration has shifted. While dependence on the leading product has decreased, the share of the top three clients has risen to 67.3%. Simultaneously, the importance of the domestic market and sales generated in the final quarter has increased.
+
+## Recommendations
+
+### Sales and Profitability
+
+- Plan revenue in conjunction with gross profit and margins. Further analyze the composition of sales in Q1 and Q4, and assess whether the elevated sales levels seen at the end of 2021 are likely to recur, before finalizing quarterly plans.
+
+### Products and Categories
+
+- Investigate the decline in Diagnostics & Reagents sales, broken down by product and client. Continue developing the Lyophilized category while monitoring gross profit and margins, given the impact this growing category has on the overall profitability of the product portfolio.
+
+### Customers and Concentration
+
+- Clarify the purchasing plans of major buyers, and investigate the reasons behind the performance decline for Customer 35 and Customer 14. When developing client relationships, consider each client's contribution to gross profit and the business's overall reliance on its top three customers.
+
+### Discounts, Returns, and Pricing
+
+- Verify the economic rationale behind sales made below cost and the application of deep discounts, analyzed at the level of individual products and clients. Monitor the frequency of such exceptions and their gross profit impact, keeping in mind that the cost model is synthetic in nature.
+- Review the sales terms for Injectable_07 to Customer 03. In 2021, this specific product-client pairing involved 16 line items below cost, resulting in a cumulative gross loss of $8,500. Clarify the economic justification for these price concessions and monitor the gross profit outcome of such transactions. 
+
+### Domestic and Export Markets
+
+- Analyze the decline in sales in Export Market C and Export Market E. Evaluate the future development of these markets in terms of revenue, gross profit, and product mix, taking into account higher export margins alongside declining export revenue.
 
