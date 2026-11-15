@@ -118,9 +118,9 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Discounts, Returns, and Pricing
 
-![Financial discount and return rates, 2019–2021](images/return-rates.png)
+![Financial discount and return rates, 2019–2021](images/Return-rates.png)
 
-![Pricing exceptions by type — number of sales lines, 2019–2021](images/Pricing-exceptions.png)
+![Pricing exceptions by type — number of sales lines, 2019–2021](images/Pricing-exeptions.png)
 
 
 #### Discount and Return Trends
