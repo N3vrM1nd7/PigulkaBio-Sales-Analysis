@@ -1,8 +1,9 @@
-<!-- Logo: when ready, put the file into /images and uncomment the block below
 <div align="center">
-<img width="240" src="images/logo.png" alt="PigulkaBio logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.png">
+    <img width="440" src="images/logo_light.png" alt="PigulkaBio logo">
+  </picture>
 </div>
--->
 
 <h1 align="center">PigulkaBio: Sales and Profitability Analysis (2019–2021)</h1>
 
