@@ -118,6 +118,11 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Discounts, Returns, and Pricing
 
+![Financial discount and return rates, 2019–2021](images/return-rates.png)
+
+![Pricing exceptions by type — number of sales lines, 2019–2021](images/Pricing-exceptions.png)
+
+
 #### Discount and Return Trends
 
 - Financial discounts have shown a consistent decline: from $60,500 in 2019 to $24,600 in 2020, and further to $21,600 in 2021. Their rate decreased from 1.26% to 0.53% and 0.4%, respectively.
