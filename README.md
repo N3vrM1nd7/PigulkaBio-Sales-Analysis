@@ -122,7 +122,6 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ![Pricing exceptions by type — number of sales lines, 2019–2021](images/Pricing-exeptions.png)
 
-
 #### Discount and Return Trends
 
 - Financial discounts have shown a consistent decline: from $60,500 in 2019 to $24,600 in 2020, and further to $21,600 in 2021. Their rate decreased from 1.26% to 0.53% and 0.4%, respectively.
@@ -139,6 +138,10 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 - While the number of sales below cost and the associated gross loss have declined, the overall product margin has continued to fall. Margin decomposition reveals that the primary negative impact stems from the product mix.
 
 ### Domestic and Export
+
+![Product revenue mix by market, 2019–2021](images/Mix-market.png)
+
+![Export revenue change by region, 2021 vs 2020](images/Export-changes.png)
 
 #### Market Performance, 2019–2021
 
