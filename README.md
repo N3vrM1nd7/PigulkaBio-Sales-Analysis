@@ -69,6 +69,15 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Products and Categories
 
+<p align="center">
+  <img src="images/Product_rev_mix.png" alt="Product revenue mix by category, 2019–2021" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/Product_bridge.png" alt="Product gross margin bridge, 2020–2021" width="100%">
+  <img src="images/P_contributions_revenue_change.png" alt="Product contributions to revenue change, 2021 vs 2020" width="100%">
+</p>
+
 #### Best and Worst Performers
 
 - Diagnostic_09 remained the leader in terms of revenue, generating $1.52 million in revenue and $959,000 in gross profit. Other top performers by revenue included Lyophilized_01 ($966,000) and Biologic_03 ($420,000).
