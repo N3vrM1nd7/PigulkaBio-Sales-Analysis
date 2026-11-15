@@ -16,7 +16,7 @@ This case study covers 2019–2021 and uses a synthetic dataset based on real tr
 
 ## Executive summary
 
-![Net revenue by quarter, 2019–2021](images/executive_summary.png)
+![Net revenue by quarter, 2019–2021](images/Exec_summary.png)
 
 2021 KPIs (relative to 2020): net revenue – $5.38 million (+16.0%); product gross profit – $2.22 million (+4.2%); product gross margin – 41.4% (-4.7 percentage points).
 
@@ -37,6 +37,8 @@ This case study covers 2019–2021 and uses a synthetic dataset based on real tr
 - Conduct a more detailed analysis of the customers and products that drove the results for Q1 and Q4. Use these findings to refine the quarterly sales and shipment plan. 
 
 ## ERD
+
+![Dataset structure and relationships](images/ERD_model.png)
 
 The dataset consists of: Sales (3,560 transaction lines, including sales, returns, and discounts), Products (a catalog comprising 34 products and 5 types of services), SKUs (101 product variants), and Customers (a directory of 43 clients). 
 
