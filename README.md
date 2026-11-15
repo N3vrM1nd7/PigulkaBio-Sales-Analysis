@@ -49,9 +49,9 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Sales and profitability trends
 
-![Product net revenue and gross profit, 2019–2021](images/quarterly-changes-revenue.png.png)
+![Product net revenue and gross profit, 2019–2021](images/quarterly-changes-revenue.png)
 
-![Quarterly year-over-year changes in product revenue and gross profit, 2020–2021](images/quarterly_changes_revenue_GP_YOY.png)
+![Quarterly year-over-year changes in product revenue and gross profit, 2020–2021](images/product_revenue_and_GP.png)
 
 #### Revenue and Gross Profit Recovery
 
