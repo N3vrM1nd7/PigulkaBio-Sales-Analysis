@@ -18,7 +18,11 @@ This case study covers 2019–2021 and uses a synthetic dataset based on real tr
 
 ![Net revenue by quarter, 2019–2021](images/Exec_summary.png)
 
-2021 KPIs (relative to 2020): net revenue – $5.38 million (+16.0%); product gross profit – $2.22 million (+4.2%); product gross margin – 41.4% (-4.7 percentage points).
+<table align="center"><tr>
+  <td align="center"><b>$5.38M</b><br>Net revenue<br>+16.0%</td>
+  <td align="center"><b>$2.22M</b><br>Product gross profit<br>+4.2%</td>
+  <td align="center"><b>41.4%</b><br>Product gross margin<br>−4.7 p.p.</td>
+</tr></table>
 
 ### 1. Revenue Growth and Peak Performance
 
