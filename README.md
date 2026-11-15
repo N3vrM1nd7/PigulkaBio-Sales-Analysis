@@ -6,6 +6,14 @@ PigulkaBio is a fictional pharmaceutical company serving domestic and export mar
 
 This case study covers 2019–2021 and uses a synthetic dataset based on real transactions. The data includes sales, returns, and financial discount adjustments, supporting a comparative analysis of the company’s commercial performance over the three-year period.
 
+## North Star Metrics & Analysis Areas
+
+- **Sales and Profitability Trends**
+- **Products and Categories**
+- **Customers and Concentration**
+- **Discounts, Returns, and Pricing**
+- **Domestic and Export**
+
 ## Executive summary
 
 2021 KPIs (relative to 2020): net revenue – $5.38 million (+16.0%); product gross profit – $2.22 million (+4.2%); product gross margin – 41.4% (-4.7 percentage points).
