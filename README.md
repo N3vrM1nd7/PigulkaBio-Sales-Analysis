@@ -97,9 +97,9 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Customers and Concentration
 
-![Top 10 customers by product net revenue, 2021](images/customers_top10.png)
+![Top 10 customers by product net revenue, 2021](images/Top10-customers.png)
 
-![Top 3 customers’ share of product net revenue, 2019–2021](images/customers_top3_share.png)
+![Top 3 customers’ share of product net revenue, 2019–2021](images/Top-3-share.png)
 
 #### Top customers: Revenue vs. Gross Profit
  
