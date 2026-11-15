@@ -49,6 +49,10 @@ All metrics in the Deep-Dive section are calculated based on products only; all 
 
 ### Sales and profitability trends
 
+![Product net revenue and gross profit, 2019–2021](product_revenue_and_GP.png)
+
+![Quarterly year-over-year changes in product revenue and gross profit, 2020–2021](quarterly_changes_revenue_GP_YOY.png)
+
 #### Revenue and Gross Profit Recovery
 
 - Product revenue grew by 16%, reaching $5.37 million. Gross profit increased by 4.2%, rising from $2.13 million to $2.22 million. The growth in sales was accompanied by a less pronounced increase in gross profit.
