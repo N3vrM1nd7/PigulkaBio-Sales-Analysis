@@ -88,8 +88,6 @@
 <h1 align="center">Insights Deep-Dive</h1>
 <p align="center"><em>All metrics in the Deep-Dive section are calculated based on products only; all service-related transactions are excluded. The primary comparison is between 2021 and 2020.</em></p>
 
-<!-- ===================== 1. SALES AND PROFITABILITY ===================== -->
-
 <h2 align="center">Sales and Profitability Trends</h2>
 
 <table align="center">
@@ -123,8 +121,6 @@
 </td>
 </tr>
 </table>
-
-<!-- ===================== 2. PRODUCTS AND CATEGORIES ===================== -->
 
 <h2 align="center">Products and Categories</h2>
 
@@ -172,8 +168,6 @@
 </tr>
 </table>
 
-<!-- ===================== 3. CUSTOMERS AND CONCENTRATION ===================== -->
-
 <h2 align="center">Customers and Concentration</h2>
 
 <table align="center">
@@ -209,8 +203,6 @@
 </tr>
 </table>
 
-<!-- ===================== 4. DISCOUNTS, RETURNS, AND PRICING ===================== -->
-
 <h2 align="center">Discounts, Returns, and Pricing</h2>
 
 <table align="center">
@@ -245,8 +237,6 @@
 </td>
 </tr>
 </table>
-
-<!-- ===================== 5. DOMESTIC AND EXPORT ===================== -->
 
 <h2 align="center">Domestic and Export</h2>
 
@@ -284,8 +274,6 @@
 </tr>
 </table>
 
-<!-- ===================== OVERALL FINDINGS ===================== -->
-
 <h1 align="center">Overall Findings</h1>
 
 <table align="center">
@@ -302,8 +290,6 @@
 </td>
 </tr>
 </table>
-
-<!-- ===================== RECOMMENDATIONS ===================== -->
 
 <h1 align="center">Recommendations</h1>
 
