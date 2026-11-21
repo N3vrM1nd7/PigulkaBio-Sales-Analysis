@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-<h1 align="center">PigulkaBio: Sales and Profitability Analysis (2019–2021)</h1>
+<h1 align="center">PigulkaBio: Sales and Profitability Analysis (2019-2021)</h1>
 
 <table align="center">
 <tr>
@@ -15,7 +15,7 @@
 
 <p>PigulkaBio is a fictional pharmaceutical company serving domestic and export markets through distributors and other business customers. Its portfolio includes diagnostics and reagents, immunobiologics, injectables, lyophilized products, antiseptics, and supplements. The company also generates a small share of revenue from services.</p>
 
-<p>This case study covers 2019–2021 and uses a synthetic dataset based on real transactions. The data includes sales, returns, and financial discount adjustments, supporting a comparative analysis of the company’s commercial performance over the three-year period.</p>
+<p>This case study covers 2019-2021 and uses a synthetic dataset based on real transactions. The data includes sales, returns, and financial discount adjustments, supporting a comparative analysis of the company’s commercial performance over the three-year period.</p>
 
 <h3>North Star Metrics &amp; Analysis Areas</h3>
 
@@ -32,10 +32,10 @@
 </table>
 
 <h1 align="center">Executive Summary</h1>
-<h3 align="center">Net Revenue Analysis (2019–2021)</h3>
+<h3 align="center">Net Revenue Analysis (2019-2021)</h3>
 
 <div align="center">
-<img width="1000" src="images/Exec_summary.png" alt="Net revenue by quarter, 2019–2021" />
+<img width="1000" src="images/Exec_summary.png" alt="Net revenue by quarter, 2019-2021" />
 </div>
 
 <table align="center">
@@ -92,8 +92,8 @@
 
 <table align="center">
 <tr>
-<td width="500"><img src="images/product_revenue_and_GP.png" alt="Product net revenue and gross profit, 2019–2021" /></td>
-<td width="500"><img src="images/quarterly-changes-revenue.png" alt="Quarterly year-over-year changes in product revenue and gross profit, 2020–2021" /></td>
+<td width="500"><img src="images/product_revenue_and_GP.png" alt="Product net revenue and gross profit, 2019-2021" /></td>
+<td width="500"><img src="images/quarterly-changes-revenue.png" alt="Quarterly year-over-year changes in product revenue and gross profit, 2020-2021" /></td>
 </tr>
 </table>
 
@@ -142,8 +142,8 @@
 
 <table align="center">
 <tr>
-<td width="500"><img src="images/Product_rev_mix.png" alt="Product revenue mix by category, 2019–2021" /></td>
-<td width="500"><img src="images/Product_bridge.png" alt="Product gross margin bridge, 2020–2021" /></td>
+<td width="500"><img src="images/Product_rev_mix.png" alt="Product revenue mix by category, 2019-2021" /></td>
+<td width="500"><img src="images/Product_bridge.png" alt="Product gross margin bridge, 2020-2021" /></td>
 </tr>
 </table>
 
@@ -151,7 +151,7 @@
 <tr>
 <td width="1000">
 
-<h4>Product Trends, 2019–2021</h4>
+<h4>Product Trends, 2019-2021</h4>
 <ul>
 <li>The Diagnostics &amp; Reagents category saw a significant decline in its share of product revenue: from 60.7% in 2019 to 57.2% in 2020 and 35.9% in 2021. Over the last year, revenue for this category fell by $723,000, and gross profit decreased by $407,000.</li>
 <li>The Lyophilized category emerged as the primary driver of growth. Its share rose from 2.5% in 2019 to 9.6% in 2020 and 24.7% in 2021. Compared to 2020, it contributed an additional $883,000 in revenue and $294,000 in gross profit.</li>
@@ -173,7 +173,7 @@
 <table align="center">
 <tr>
 <td width="500"><img src="images/Top10-customers.png" alt="Top 10 customers by product net revenue, 2021" /></td>
-<td width="500"><img src="images/Top-3-share.png" alt="Top 3 customers’ share of product net revenue, 2019–2021" /></td>
+<td width="500"><img src="images/Top-3-share.png" alt="Top 3 customers’ share of product net revenue, 2019-2021" /></td>
 </tr>
 </table>
 
@@ -191,7 +191,7 @@
 <ul>
 <li>The primary growth was driven by Customer 42 and Customer 02. For Customer 42, product revenue increased by $1.03 million, and gross profit by $323,000. For Customer 02, the increases were $402,000 and $250,000, respectively.</li>
 <li>The most significant declines were seen with Customer 35 and Customer 14. Revenue for Customer 35 fell by $785,000, with a $488,000 drop in gross profit. For Customer 14, the decreases were $369,000 and $208,000, respectively.</li>
-<li>There were no product sales for Customer 25 or Customer 01 in the 2019–2020 data. In 2021, however, they generated $375,000 and $111,000 in product revenue, respectively, contributing to the annual result.</li>
+<li>There were no product sales for Customer 25 or Customer 01 in the 2019-2020 data. In 2021, however, they generated $375,000 and $111,000 in product revenue, respectively, contributing to the annual result.</li>
 </ul>
 
 <h4>Top-3 Revenue Share</h4>
@@ -207,8 +207,8 @@
 
 <table align="center">
 <tr>
-<td width="500"><img src="images/Return-rates.png" alt="Financial discount and return rates, 2019–2021" /></td>
-<td width="500"><img src="images/Pricing-exeptions.png" alt="Pricing exceptions by type — number of sales lines, 2019–2021" /></td>
+<td width="500"><img src="images/Return-rates.png" alt="Financial discount and return rates, 2019-2021" /></td>
+<td width="500"><img src="images/Pricing-exeptions.png" alt="Pricing exceptions by type — number of sales lines, 2019-2021" /></td>
 </tr>
 </table>
 
@@ -242,7 +242,7 @@
 
 <table align="center">
 <tr>
-<td width="500"><img src="images/Mix-market.png" alt="Product revenue mix by market, 2019–2021" /></td>
+<td width="500"><img src="images/Mix-market.png" alt="Product revenue mix by market, 2019-2021" /></td>
 <td width="500"><img src="images/Export-changes.png" alt="Export revenue change by region, 2021 vs 2020" /></td>
 </tr>
 </table>
@@ -251,7 +251,7 @@
 <tr>
 <td width="1000">
 
-<h4>Market Performance, 2019–2021</h4>
+<h4>Market Performance, 2019-2021</h4>
 <ul>
 <li>The domestic market saw revenue grow from $3.49 million in 2020 to $4.7 million in 2021. Gross profit increased from $1.54 million to $1.89 million; however, the margin declined from 44.1% to 40.2%.</li>
 <li>Export revenue fell from $1.14 million to $669,000, and gross profit dropped from $594,000 to $335,000. Exports maintained a higher margin—50%—though this was a decrease from 52.1% in 2020.</li>
